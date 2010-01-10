@@ -1,0 +1,7 @@
+clj-ctx:  Utilities for the 'context' strategy, or whatever its called.  I'm probably doing it wrong.
+
+Relies on my clj-utils package.
+
+grayswx/context/util - Miscellaneous stuff.
+grayswx/context/resource - Resource management.
+grayswx/context/resource/types - Some default resource types.
